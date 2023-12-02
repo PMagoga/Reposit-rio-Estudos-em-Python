@@ -1,0 +1,1 @@
+### esta pasta foi criada exclusivamente para testes com o Selenium
